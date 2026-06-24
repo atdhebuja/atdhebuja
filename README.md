@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Dr. Atdhe Buja
 
 **Cybersecurity Professor | CISO | Researcher | Author | Speaker**
