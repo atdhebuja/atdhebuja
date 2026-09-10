@@ -7,6 +7,7 @@ I work at the intersection of **cybersecurity, digital forensics, IIoT/IoT secur
 ## Research and Technical Focus
 
 - Industrial Internet of Things (IIoT) and IoT cybersecurity
+- Artificial Intelligence agentic engineering setup design
 - Digital forensics and incident response
 - SOC lab design, threat intelligence, and case management
 - Wireless Sensor Networks (WSN) and cyber-physical security
