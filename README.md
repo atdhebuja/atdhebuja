@@ -19,6 +19,9 @@ I work at the intersection of **cybersecurity, digital forensics, IIoT/IoT secur
 ### IIoT and WSN Security Research
 Projects related to IIoT infrastructure, wireless sensor network simulation, cyber threat datasets, and anomaly detection models.
 
+### Establishing and Leading Academic CERT
+Case study of founding and leading UBT-CERT: cybersecurity strategy, policy development, FIRST membership preparation, Trusted Introducer accreditation, laboratory development, and student internships.
+
 ### SOC and Incident Response Labs
 Hands-on environments for teaching and simulating real-world SOC workflows, including alert triage, case management, threat intelligence, and forensic evidence handling.
 
