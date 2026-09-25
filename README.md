@@ -16,11 +16,26 @@ I work at the intersection of **cybersecurity, digital forensics, IIoT/IoT secur
 
 ## Selected Projects
 
+### [Establishing and Leading UBT-CERT](https://github.com/atdhebuja/Academic-cert-case-study)
+
+**Founder and CERT Manager | 2016–2018**
+
+I founded and led an academic Computer Emergency Response Team,
+developing its cybersecurity strategy, governance policies, laboratory,
+and student internship program. I led preparation and coordination
+supporting FIRST membership and Trusted Introducer accreditation.
+
+The case study includes a project timeline, policy inventory,
+sanitized policy excerpt, laboratory photographs, and a student
+internship report with an English overview.
+
+**Areas demonstrated:** Cybersecurity leadership · Security governance ·
+CERT development · Risk management · Student mentoring
+
+[Explore the case study →](https://github.com/atdhebuja/Academic-cert-case-study)
+
 ### IIoT and WSN Security Research
 Projects related to IIoT infrastructure, wireless sensor network simulation, cyber threat datasets, and anomaly detection models.
-
-### Establishing and Leading Academic CERT
-Case study of founding and leading UBT-CERT: cybersecurity strategy, policy development, FIRST membership preparation, Trusted Introducer accreditation, laboratory development, and student internships.
 
 ### SOC and Incident Response Labs
 Hands-on environments for teaching and simulating real-world SOC workflows, including alert triage, case management, threat intelligence, and forensic evidence handling.
