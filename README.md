@@ -16,7 +16,7 @@ I work at the intersection of **cybersecurity, digital forensics, IIoT/IoT secur
 
 ## Selected Projects
 
-### [Establishing and Leading UBT-CERT](https://github.com/atdhebuja/Academic-cert-case-study)
+### [Establishing and Leading Academia CERT](https://github.com/atdhebuja/Academic-cert-case-study)
 
 **Founder and CERT Manager | 2016–2018**
 
