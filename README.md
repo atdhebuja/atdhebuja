@@ -6,6 +6,8 @@ I work at the intersection of **cybersecurity, digital forensics, IIoT/IoT secur
 
 ## Research and Technical Focus
 
+- IT governance, cybersecurity leadership, and risk management
+- Business process modeling (BPMN) and research-to-consulting workflows
 - Industrial Internet of Things (IIoT) and IoT cybersecurity
 - Artificial Intelligence agentic engineering setup design
 - Digital forensics and incident response
