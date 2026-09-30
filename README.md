@@ -24,6 +24,16 @@ I founded and led an academic Computer Emergency Response Team, developing its c
 
 [Explore the case study →](https://github.com/atdhebuja/Academic-cert-case-study)
 
+### [CIO Leadership at ICT Academy](https://github.com/atdhebuja/CIO-case-study)
+
+**Chief Information Officer | January 2022–July 2024**
+
+I led technology and cybersecurity initiatives at ICT Academy, defining business processes across education, research, consulting, and professional activities. My responsibilities included security governance, risk management, cloud operations oversight, vendor coordination, and reporting to organizational leadership.
+
+The case study includes a research-to-consulting process model, research register structure, an illustrative risk-remediation example, and leadership reflections.
+
+[Explore the case study →](https://github.com/atdhebuja/CIO-case-study) · [Read the article →](https://www.atdheb.com/ict-academy-cio-case-study/)
+
 ### IIoT and WSN Security Research
 Projects related to IIoT infrastructure, wireless sensor network simulation, cyber threat datasets, and anomaly detection models.
 
